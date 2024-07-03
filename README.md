@@ -1,2 +1,2 @@
 # Unity
-Clone of Flappy Bird game in Unity
+Flappy Bird game in Unity 2D game development environment
